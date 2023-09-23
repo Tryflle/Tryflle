@@ -9,5 +9,6 @@
 - Check out my [website!](https://tryflle.github.io)
 
 ---
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryflle&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=dark)
+<div align="center">
+ <h1>![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryflle&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=dark)
+</div>
