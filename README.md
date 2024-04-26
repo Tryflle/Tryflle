@@ -3,10 +3,9 @@
 </div>
 
 ---
-
-- I'm a beginner developer who enjoys messing around and breaking things.
-- If you'd like to get in contact with me, my Discord is @tryfle. I don't usually accept friend requests though!
-- Check out my [website!](https://tryflle.github.io)
+<br > I'm a learning developer with 1 year of experience.
+<br > If you'd like to get in contact with me, my Discord is @tryfle. I don't usually accept friend requests though!
+<br > Check out my <a href="https://tryflle.github.io">very PINK website!</a>
 
 ---
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryflle&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=dark)
