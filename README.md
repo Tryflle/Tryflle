@@ -3,7 +3,7 @@
 </div>
 
 ---
-<br > I'm a learning developer with 2 years of experience.
+<br > I'm a learning developer with 3 years of experience.
 <br > If you'd like to get in contact with me, my Discord is @tryfle. I don't usually accept friend requests though!
 <br > I'm currently learning Rust 🚀
 <br > Check out my <a href="https://tryflle.github.io">very PINK website!</a>
