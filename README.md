@@ -9,4 +9,4 @@
 <br > Check out my <a href="https://tryflle.github.io">very PINK website!</a>
 
 ---
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tryflle&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=dark)
+![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Tryflle&card_width=400&langs_count=10&layout=compact&hide_border=true&theme=dark)
